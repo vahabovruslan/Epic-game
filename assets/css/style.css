@@ -1,0 +1,35 @@
+*{
+    background-color: black;
+    color: white;
+}
+.logo{
+    width: 10%;
+}
+.search{
+    width: 150px;
+    margin-left: 25px;
+    position: relative;
+}
+.img3{
+     filter: grayscale(100%);
+}
+.img2{
+    width: 150px;
+    height: 200px;
+}
+.journey{
+    color: gray;
+    margin-top: 5px;
+    font-size: 13px;
+   
+}
+.install{
+    color: gray;
+    margin-top: 5px;
+    font-size: 13px;
+}
+
+.worldwar{
+    color: gray;
+    margin-left:35% ;
+}
